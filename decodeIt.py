@@ -3,7 +3,7 @@ import base64
 import hashlib
 import urllib.parse
 
-token = '5481594578:AAHo9nQ0IPti0JrEyQVJMJ-v24p6ZNWIfqA'
+token = ''
 bot = telebot.TeleBot(token)
 
 HELP = """
